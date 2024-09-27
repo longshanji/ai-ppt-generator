@@ -1,0 +1,4 @@
+python-pptx
+PyQt5
+requests
+configparser

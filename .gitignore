@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# PyInstaller
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Config
+config.ini
+
+# Other
+*.log
+.DS_Store
