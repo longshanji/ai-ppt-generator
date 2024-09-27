@@ -14,7 +14,7 @@ AI PPT 生成器是一个使用人工智能技术自动生成 PowerPoint 演示�
 
 1. 克隆此仓库：
    ```bash
-   git clone https://github.com/<your-username>/ai-ppt-generator.git
+   git clone https://github.com/longshanji/ai-ppt-generator.git
    cd ai-ppt-generator
    ```
 
